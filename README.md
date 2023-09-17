@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay Krishnan</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Trade!](https://ajaykrishna.github.io/trading-pwa)
+- 🔭 I’m currently working on [Trade!](https://ajaykrshna.github.io/trading-pwa)
 
 - 🌱 I’m currently learning **Flutter, Next.Js and Google Cloud**
 
