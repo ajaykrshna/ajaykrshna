@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter, Next.Js and Google Cloud**
 
-- 👨‍💻 All of my projects are available at [github.com/ajaykrshna](github.com/ajaykrshna)
+- 👨‍💻 All of my projects are available at [Projects](https://ajaykrshna.github.io/#projects)
 
 - 📫 Reach me at **ajaykgen@gmail.com**
 
