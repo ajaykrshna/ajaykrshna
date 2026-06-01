@@ -3,7 +3,7 @@ Data engineering, local-first systems, and clean architecture.
 
 Electrical Engineering at IIT Hyderabad | Incoming Associate Data Engineer at Netradyne.
 
-[LinkedIn](https://www.linkedin.com/in/ajaykrshna/) · [Email](mailto:hello@ajayk.dev) · [Portfolio](ajayk.dev)
+[LinkedIn](https://www.linkedin.com/in/ajaykrshna/) · [Email](mailto:hello@ajayk.dev) · [Portfolio](https://ajayk.dev/)
 
 ### Current Focus
 * Building an offline-first, cross-platform productivity application.
